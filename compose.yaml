@@ -1,0 +1,35 @@
+services:
+  marco:
+    image: marco
+    build:
+      context: .
+
+    volumes:
+      - ./server/resources/:/marco/server/resources
+      - ./rq/resources/:/marco/rq/resources
+      - /path/to/your/.m2/:/marco_m2
+
+    networks:
+      - marco
+
+    tty: true
+
+  marco-server:
+    image: marco
+    build:
+      context: .
+    
+    volumes:
+      - ./server/resources/:/marco/server/resources
+    
+    networks:
+      - marco
+    
+    environment:
+      FLASK_APP: /marco/server/server/app.py
+    
+    command: flask run --host=0.0.0.0
+
+networks:
+  marco:
+
