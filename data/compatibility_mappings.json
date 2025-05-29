@@ -1,0 +1,1900 @@
+{
+    "com.google.code.gson:gson:2.10.1": [
+        "2.10.1"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.16.2": [
+        "2.16.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.16.2": [
+        "2.16.1",
+        "2.16.2"
+    ],
+    "ch.qos.logback:logback-core:1.4.11": [
+        "1.4.9",
+        "1.4.10",
+        "1.4.11"
+    ],
+    "org.apache.logging.log4j:log4j-to-slf4j:2.20.0": [
+        "2.20.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.15.3": [
+        "2.15.4",
+        "2.15.3"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.15.3": [
+        "2.15.4",
+        "2.15.3"
+    ],
+    "org.slf4j:slf4j-api:2.0.6": [
+        "2.0.4",
+        "2.0.7",
+        "2.0.3",
+        "2.0.6",
+        "2.0.5"
+    ],
+    "dnsjava:dnsjava:3.5.3": [
+        "3.5.3"
+    ],
+    "junit:junit:4.13.2": [
+        "4.13.2",
+        "4.13.1"
+    ],
+    "com.github.docker-java:docker-java-api:3.3.4": [
+        "3.3.4"
+    ],
+    "org.slf4j:slf4j-api:2.0.7": [
+        "2.0.4",
+        "2.0.7",
+        "2.0.3",
+        "2.0.5",
+        "2.0.6"
+    ],
+    "jakarta.validation:jakarta.validation-api:3.0.2": [
+        "3.0.0-M1",
+        "3.1.0-M2",
+        "3.0.2",
+        "3.1.0-M1",
+        "3.0.1",
+        "3.0.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.14.2": [
+        "2.14.3",
+        "2.14.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.14.2": [
+        "2.14.2"
+    ],
+    "org.springdoc:springdoc-openapi-starter-common:2.0.0": [
+        "2.0.0-RC2",
+        "2.0.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webflux-ui:2.0.0": [
+        "2.0.0-M5",
+        "2.0.0-M3",
+        "2.0.4",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.0-M6",
+        "2.0.0-M4",
+        "2.0.0-RC2",
+        "2.0.2",
+        "2.0.0-RC1",
+        "2.0.0-M7"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webflux-api:2.0.0": [
+        "2.0.0-M5",
+        "2.0.0",
+        "2.0.0-M6",
+        "2.0.0-M4",
+        "2.0.0-RC2",
+        "2.0.0-RC1",
+        "2.0.0-M7"
+    ],
+    "org.webjars:webjars-locator-core:0.52": [
+        "0.56",
+        "0.57",
+        "0.52",
+        "0.53",
+        "0.54",
+        "0.55",
+        "0.58"
+    ],
+    "io.github.classgraph:classgraph:4.8.149": [
+        "4.8.149",
+        "4.8.150"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.0": [
+        "2.0.4",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.2",
+        "2.0.0-RC2"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-api:2.0.0": [
+        "2.0.0-RC2",
+        "2.0.0"
+    ],
+    "com.github.jsqlparser:jsqlparser:4.4": [
+        "4.4"
+    ],
+    "org.xerial:sqlite-jdbc:3.39.4.1": [
+        "3.39.4.1"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.11.4": [
+        "2.11.4"
+    ],
+    "com.amihaiemil.web:docker-java-api:0.0.13": [
+        "0.0.13"
+    ],
+    "org.bytedeco:javacpp:1.5.6": [
+        "1.5.6"
+    ],
+    "com.typesafe.netty:netty-reactive-streams:2.0.4": [
+        "2.0.4",
+        "2.0.10",
+        "2.0.7",
+        "2.0.11",
+        "2.0.12",
+        "2.0.3",
+        "2.0.5",
+        "2.0.6",
+        "2.0.2"
+    ],
+    "com.google.zxing:core:3.4.1": [
+        "3.4.1"
+    ],
+    "com.google.zxing:javase:3.4.1": [
+        "3.4.1",
+        "3.5.1",
+        "3.5.2",
+        "3.5.3",
+        "3.5.0",
+        "3.4.0"
+    ],
+    "cn.hutool:hutool-http:5.8.5": [
+        "5.8.11",
+        "5.8.12",
+        "5.8.6",
+        "5.8.5",
+        "5.8.8",
+        "5.8.7",
+        "5.8.10",
+        "5.8.9"
+    ],
+    "org.codehaus.plexus:plexus-java:1.1.0": [
+        "1.1.2",
+        "1.1.0",
+        "1.2.0",
+        "1.1.1"
+    ],
+    "org.codehaus.plexus:plexus-archiver:4.2.7": [
+        "4.2.7",
+        "4.2.6"
+    ],
+    "org.codehaus.plexus:plexus-io:3.2.0": [
+        "3.3.1",
+        "3.3.0",
+        "3.2.0"
+    ],
+    "org.xerial:sqlite-jdbc:3.36.0.3": [
+        "3.36.0.2",
+        "3.36.0.3"
+    ],
+    "com.google.http-client:google-http-client:1.41.8": [
+        "1.42.2",
+        "1.42.3",
+        "1.43.2",
+        "1.41.8",
+        "1.42.0",
+        "1.41.6",
+        "1.43.3",
+        "1.44.1",
+        "1.41.7",
+        "1.43.0",
+        "1.43.1",
+        "1.42.1"
+    ],
+    "com.google.http-client:google-http-client-jackson2:1.41.8": [
+        "1.42.2",
+        "1.40.0",
+        "1.41.1",
+        "1.41.6",
+        "1.42.3",
+        "1.43.2",
+        "1.41.5",
+        "1.41.7",
+        "1.40.1",
+        "1.41.4",
+        "1.43.3",
+        "1.44.1",
+        "1.43.1",
+        "1.41.3",
+        "1.42.1",
+        "1.41.0",
+        "1.41.8",
+        "1.42.0",
+        "1.41.2",
+        "1.43.0"
+    ],
+    "com.google.api-client:google-api-client:1.34.1": [
+        "1.33.2",
+        "1.32.2",
+        "1.33.1",
+        "1.33.4",
+        "1.34.1",
+        "1.34.0",
+        "1.33.0",
+        "1.32.1"
+    ],
+    "com.google.oauth-client:google-oauth-client:1.33.3": [
+        "1.33.3"
+    ],
+    "com.google.http-client:google-http-client-gson:1.41.8": [
+        "1.42.2",
+        "1.40.0",
+        "1.41.1",
+        "1.41.6",
+        "1.42.3",
+        "1.43.2",
+        "1.41.5",
+        "1.41.7",
+        "1.40.1",
+        "1.41.4",
+        "1.43.3",
+        "1.44.1",
+        "1.43.1",
+        "1.41.3",
+        "1.42.1",
+        "1.41.0",
+        "1.41.8",
+        "1.42.0",
+        "1.41.2",
+        "1.43.0"
+    ],
+    "com.google.http-client:google-http-client-apache-v2:1.41.8": [
+        "1.42.2",
+        "1.40.0",
+        "1.41.1",
+        "1.41.6",
+        "1.42.3",
+        "1.43.2",
+        "1.41.5",
+        "1.41.7",
+        "1.40.1",
+        "1.41.4",
+        "1.43.3",
+        "1.44.1",
+        "1.43.1",
+        "1.41.3",
+        "1.42.1",
+        "1.41.0",
+        "1.41.8",
+        "1.42.0",
+        "1.41.2",
+        "1.43.0"
+    ],
+    "com.google.cloud:google-cloud-core-http:2.7.1": [
+        "2.9.0",
+        "1.91.0",
+        "2.8.13",
+        "1.92.0",
+        "2.5.11",
+        "2.9.1",
+        "1.93.8",
+        "2.3.1",
+        "1.94.6",
+        "2.1.5",
+        "2.8.7",
+        "1.93.2",
+        "2.1.3",
+        "2.6.1",
+        "1.95.4",
+        "2.8.0",
+        "2.8.21",
+        "2.1.0",
+        "2.8.12",
+        "2.5.8",
+        "2.8.14",
+        "1.92.2",
+        "2.5.3",
+        "2.1.8",
+        "2.4.0",
+        "1.91.3",
+        "2.8.5",
+        "1.92.3",
+        "2.3.4",
+        "2.5.10",
+        "1.94.8",
+        "2.8.20",
+        "1.92.4",
+        "2.9.4",
+        "1.92.5",
+        "2.8.23",
+        "2.9.3",
+        "2.8.4",
+        "1.93.9",
+        "1.94.3",
+        "2.8.16",
+        "1.93.7",
+        "2.3.5",
+        "2.8.11",
+        "2.8.22",
+        "2.8.19",
+        "2.8.15",
+        "1.94.5",
+        "1.91.1",
+        "1.93.5",
+        "2.6.0",
+        "2.8.3",
+        "2.5.2",
+        "1.93.6",
+        "2.0.2",
+        "2.1.4",
+        "1.93.3",
+        "1.95.3",
+        "2.5.0",
+        "2.8.27",
+        "1.94.7",
+        "2.5.5",
+        "2.1.6",
+        "2.1.1",
+        "2.8.8",
+        "1.95.0",
+        "2.0.4",
+        "1.94.2",
+        "1.92.1",
+        "2.8.6",
+        "2.5.1",
+        "2.5.4",
+        "2.5.7",
+        "2.7.1",
+        "2.3.0",
+        "2.8.1",
+        "2.2.0",
+        "2.8.10",
+        "2.5.6",
+        "1.94.4",
+        "1.95.1",
+        "2.8.28",
+        "2.9.2",
+        "2.1.7",
+        "2.8.17",
+        "2.3.2",
+        "2.0.5",
+        "2.8.9",
+        "1.93.4",
+        "2.8.24",
+        "2.3.3",
+        "2.1.2",
+        "1.95.2",
+        "2.8.18",
+        "1.93.1",
+        "1.94.1",
+        "2.5.9",
+        "2.7.0",
+        "2.0.3",
+        "1.93.0",
+        "1.91.2",
+        "2.8.26",
+        "1.94.0",
+        "1.93.10"
+    ],
+    "com.google.http-client:google-http-client-appengine:1.41.8": [
+        "1.42.2",
+        "1.40.0",
+        "1.41.1",
+        "1.41.6",
+        "1.42.3",
+        "1.43.2",
+        "1.41.5",
+        "1.41.7",
+        "1.40.1",
+        "1.41.4",
+        "1.43.3",
+        "1.44.1",
+        "1.43.1",
+        "1.41.3",
+        "1.42.1",
+        "1.41.0",
+        "1.41.8",
+        "1.42.0",
+        "1.41.2",
+        "1.43.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.17.0": [
+        "2.17.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.17.0": [
+        "2.17.0-rc1",
+        "2.17.0"
+    ],
+    "org.assertj:assertj-core:3.25.3": [
+        "3.25.3"
+    ],
+    "net.datafaker:datafaker:2.1.0": [
+        "2.1.0"
+    ],
+    "org.apache.commons:commons-text:1.3": [
+        "1.3"
+    ],
+    "com.vladsch.flexmark:flexmark-ext-tables:0.62.2": [
+        "0.64.6",
+        "0.61.34",
+        "0.62.0",
+        "0.61.30",
+        "0.62.2",
+        "0.61.28",
+        "0.61.32",
+        "0.64.2",
+        "0.64.4",
+        "0.64.0",
+        "0.61.26"
+    ],
+    "com.vladsch.flexmark:flexmark-util:0.62.2": [
+        "0.62.2"
+    ],
+    "com.aventstack:extentreports:5.1.1": [
+        "5.1.1"
+    ],
+    "org.codehaus.plexus:plexus-java:1.2.0": [
+        "1.2.0"
+    ],
+    "org.codehaus.plexus:plexus-xml:3.0.0": [
+        "3.0.0"
+    ],
+    "org.codehaus.plexus:plexus-utils:4.0.0": [
+        "4.0.0",
+        "4.0.1"
+    ],
+    "com.github.virtuald:curvesapi:1.08": [
+        "1.07",
+        "1.06",
+        "1.05",
+        "1.08"
+    ],
+    "com.google.zxing:javase:3.5.3": [
+        "3.4.1",
+        "3.5.1",
+        "3.5.2",
+        "3.5.3",
+        "3.5.0",
+        "3.4.0"
+    ],
+    "com.google.zxing:core:3.5.3": [
+        "3.5.2",
+        "3.5.3"
+    ],
+    "jakarta.validation:jakarta.validation-api:2.0.2": [
+        "2.0.1",
+        "2.0.2"
+    ],
+    "com.samskivert:jmustache:1.14": [
+        "1.14"
+    ],
+    "com.github.jknack:handlebars:4.3.0": [
+        "4.3.0"
+    ],
+    "com.github.jknack:handlebars-jackson2:4.3.0": [
+        "4.3.0",
+        "4.3.1"
+    ],
+    "com.github.curious-odd-man:rgxgen:1.3": [
+        "1.3"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.13.4": [
+        "2.13.4",
+        "2.13.4.1",
+        "2.13.5",
+        "2.13.4.2"
+    ],
+    "com.fasterxml.jackson.datatype:jackson-datatype-joda:2.13.4": [
+        "2.16.0-rc1",
+        "2.14.2",
+        "2.16.2",
+        "2.15.0-rc1",
+        "2.15.2",
+        "2.15.3",
+        "2.14.0-rc1",
+        "2.13.1",
+        "2.15.0-rc3",
+        "2.12.7",
+        "2.12.3",
+        "2.13.0-rc2",
+        "2.14.0",
+        "2.16.1",
+        "2.16.0",
+        "2.12.2",
+        "2.12.4",
+        "2.12.6",
+        "2.15.0-rc2",
+        "2.15.4",
+        "2.13.0",
+        "2.13.2",
+        "2.14.0-rc2",
+        "2.14.1",
+        "2.17.0",
+        "2.12.1",
+        "2.13.3",
+        "2.13.5",
+        "2.13.0-rc1",
+        "2.13.4",
+        "2.15.0",
+        "2.12.5",
+        "2.15.1",
+        "2.14.3",
+        "2.14.0-rc3",
+        "2.17.0-rc1"
+    ],
+    "com.github.joschi.jackson:jackson-datatype-threetenbp:2.10.0": [
+        "2.10.0"
+    ],
+    "ch.qos.logback:logback-core:1.4.14": [
+        "1.4.14",
+        "1.4.12",
+        "1.4.13"
+    ],
+    "org.codehaus.janino:janino:3.1.11": [
+        "3.1.11",
+        "3.1.12"
+    ],
+    "org.codehaus.janino:commons-compiler:3.1.11": [
+        "3.1.12",
+        "3.1.11",
+        "3.1.10"
+    ],
+    "org.apache.flink:flink-clients:1.16.1": [
+        "1.16.2",
+        "1.16.1",
+        "1.16.0"
+    ],
+    "org.apache.flink:flink-core:1.16.1": [
+        "1.16.2",
+        "1.16.1",
+        "1.16.3"
+    ],
+    "org.apache.flink:flink-optimizer:1.16.1": [
+        "1.17.1",
+        "1.17.2",
+        "1.16.0",
+        "1.17.0",
+        "1.16.2",
+        "1.16.1",
+        "1.16.3"
+    ],
+    "org.apache.flink:flink-java:1.16.1": [
+        "1.15.3",
+        "1.16.0",
+        "1.15.2",
+        "1.16.2",
+        "1.15.0",
+        "1.15.4",
+        "1.15.1",
+        "1.16.1",
+        "1.16.3"
+    ],
+    "org.apache.flink:flink-streaming-java:1.16.1": [
+        "1.16.2",
+        "1.16.1"
+    ],
+    "org.reflections:reflections:0.9.12": [
+        "0.9.12"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.9.10.4": [
+        "2.9.10.6",
+        "2.9.10.7",
+        "2.9.10.2",
+        "2.9.10.1",
+        "2.9.10.5",
+        "2.9.10.8",
+        "2.9.10.4",
+        "2.9.10",
+        "2.9.10.3"
+    ],
+    "com.cedarsoftware:json-io:2.5.1": [
+        "2.5.1",
+        "2.6.1",
+        "2.5.2",
+        "2.6.0"
+    ],
+    "com.carrotsearch:hppc:0.7.2": [
+        "0.7.3",
+        "0.7.2"
+    ],
+    "com.google.code.gson:gson:2.9.0": [
+        "2.9.0"
+    ],
+    "org.hdrhistogram:HdrHistogram:2.1.12": [
+        "2.1.12"
+    ],
+    "io.github.hakky54:sslcontext-kickstart:8.3.2": [
+        "8.3.2"
+    ],
+    "org.slf4j:slf4j-simple:2.0.5": [
+        "2.0.0-beta1",
+        "2.0.4",
+        "2.0.0-alpha6",
+        "2.0.7",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.5",
+        "2.0.0-alpha7",
+        "2.0.6",
+        "2.0.0-beta0"
+    ],
+    "com.github.jknack:handlebars:4.2.1": [
+        "4.2.1"
+    ],
+    "com.github.kwhat:jnativehook:2.2.2": [
+        "2.2.2"
+    ],
+    "ch.qos.logback:logback-core:1.4.7": [
+        "1.4.7"
+    ],
+    "org.slf4j:slf4j-api:2.0.4": [
+        "2.0.4",
+        "2.0.7",
+        "2.0.3",
+        "2.0.5",
+        "2.0.6"
+    ],
+    "com.github.oshi:oshi-core:6.4.4": [
+        "6.4.6",
+        "6.4.3",
+        "6.4.5",
+        "6.4.4"
+    ],
+    "org.jfree:jfreechart:1.5.4": [
+        "1.5.4"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.13.4.2": [
+        "2.13.5",
+        "2.13.4.1",
+        "2.13.4.2"
+    ],
+    "org.codehaus.plexus:plexus-utils:3.4.1": [
+        "3.4.1",
+        "3.4.0"
+    ],
+    "org.slf4j:slf4j-api:2.0.0-beta1": [
+        "2.0.0-beta1",
+        "2.0.4",
+        "2.0.7",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.5",
+        "2.0.6",
+        "2.0.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.16.1": [
+        "2.16.1",
+        "2.16.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.16.1": [
+        "2.16.1",
+        "2.16.2"
+    ],
+    "org.apache.maven.plugins:maven-compiler-plugin:3.13.0": [
+        "3.12.0",
+        "3.13.0",
+        "3.12.1"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.13.2.2": [
+        "2.13.3",
+        "2.13.2.1",
+        "2.13.5",
+        "2.13.4",
+        "2.13.4.1",
+        "2.13.2.2",
+        "2.13.4.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.11.0": [
+        "2.11.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.13.2": [
+        "2.13.3",
+        "2.13.5",
+        "2.13.4",
+        "2.13.4.1",
+        "2.13.2",
+        "2.13.4.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.10.0": [
+        "2.10.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.10.5.1": [
+        "2.10.4",
+        "2.10.5.1",
+        "2.10.5"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.10.5": [
+        "2.10.4",
+        "2.10.5.1",
+        "2.10.5"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.9.10": [
+        "2.9.10.6",
+        "2.9.10.7",
+        "2.9.10.2",
+        "2.9.10.1",
+        "2.9.10.5",
+        "2.9.10.8",
+        "2.9.10.4",
+        "2.9.10",
+        "2.9.10.3"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.9.5": [
+        "2.9.5"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.9.4": [
+        "2.9.4"
+    ],
+    "junit:junit:4.12": [
+        "4.12"
+    ],
+    "org.xmlunit:xmlunit-core:2.8.3": [
+        "2.8.4",
+        "2.8.3"
+    ],
+    "org.slf4j:slf4j-api:2.0.5": [
+        "2.0.4",
+        "2.0.7",
+        "2.0.3",
+        "2.0.5",
+        "2.0.6"
+    ],
+    "org.springframework.data:spring-data-jpa:3.2.1": [
+        "3.2.1"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.3.0": [
+        "2.5.0",
+        "2.3.0",
+        "2.2.0",
+        "2.4.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-api:2.3.0": [
+        "2.3.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-common:2.3.0": [
+        "2.3.0"
+    ],
+    "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.16.0": [
+        "2.16.2",
+        "2.16.1",
+        "2.16.0",
+        "2.16.0-rc1"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.16.0": [
+        "2.16.2",
+        "2.16.1",
+        "2.16.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.16.0": [
+        "2.16.2",
+        "2.16.1",
+        "2.16.0"
+    ],
+    "org.springframework.data:spring-data-jpa:3.1.5": [
+        "3.1.4",
+        "3.1.5"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.1.0": [
+        "2.3.0",
+        "2.4.0",
+        "2.1.0",
+        "2.5.0",
+        "2.2.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-api:2.1.0": [
+        "2.1.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-common:2.1.0": [
+        "2.1.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.4": [
+        "2.0.4",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.2",
+        "2.0.0-RC2"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-api:2.0.4": [
+        "2.0.4",
+        "2.0.3",
+        "2.1.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-common:2.0.4": [
+        "2.0.4"
+    ],
+    "org.webjars:webjars-locator-core:0.55": [
+        "0.56",
+        "0.57",
+        "0.52",
+        "0.53",
+        "0.54",
+        "0.55",
+        "0.58"
+    ],
+    "org.springdoc:springdoc-openapi-ui:1.7.0": [
+        "1.7.0",
+        "1.8.0"
+    ],
+    "org.springdoc:springdoc-openapi-webmvc-core:1.7.0": [
+        "1.7.0"
+    ],
+    "org.springdoc:springdoc-openapi-common:1.7.0": [
+        "1.7.0"
+    ],
+    "io.github.classgraph:classgraph:4.8.83": [
+        "4.8.82",
+        "4.8.84",
+        "4.8.83",
+        "4.8.85"
+    ],
+    "me.tongfei:progressbar:0.10.0": [
+        "0.10.0",
+        "0.10.1"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.17.1": [
+        "2.17.1"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.17.1": [
+        "2.17.1"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.15.4": [
+        "2.15.4"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.15.4": [
+        "2.15.4",
+        "2.15.3"
+    ],
+    "org.springframework.data:spring-data-jpa:3.2.0": [
+        "3.2.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.2": [
+        "2.0.4",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.2",
+        "2.0.0-RC2"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-api:2.0.2": [
+        "2.0.1",
+        "2.0.2"
+    ],
+    "org.springdoc:springdoc-openapi-starter-common:2.0.2": [
+        "2.0.2"
+    ],
+    "org.codehaus.janino:janino:3.1.10": [
+        "3.1.10"
+    ],
+    "org.slf4j:jul-to-slf4j:2.0.7": [
+        "2.0.0-beta1",
+        "2.0.4",
+        "2.0.0-alpha6",
+        "2.0.7",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.0-alpha7",
+        "2.0.5",
+        "2.0.6",
+        "2.0.2",
+        "2.0.0-beta0"
+    ],
+    "com.github.oshi:oshi-core:6.1.3": [
+        "6.1.3"
+    ],
+    "javax.validation:validation-api:2.0.1.Final": [
+        "2.0.1.Final"
+    ],
+    "org.springframework.data:spring-data-jpa:3.1.3": [
+        "3.1.4",
+        "3.1.3"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.15.2": [
+        "2.15.4",
+        "2.15.3",
+        "2.15.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.15.2": [
+        "2.15.4",
+        "2.15.3",
+        "2.15.2"
+    ],
+    "net.minidev:json-smart:2.4.11": [
+        "2.5.0",
+        "2.5.1",
+        "2.4.10",
+        "2.4.11"
+    ],
+    "org.springframework.retry:spring-retry:2.0.2": [
+        "2.0.3",
+        "2.0.2"
+    ],
+    "com.microsoft.playwright:playwright:1.43.0": [
+        "1.43.0"
+    ],
+    "com.microsoft.playwright:driver-bundle:1.43.0": [
+        "1.43.0"
+    ],
+    "org.slf4j:slf4j-api:2.0.3": [
+        "2.0.4",
+        "2.0.7",
+        "2.0.3",
+        "2.0.5",
+        "2.0.6"
+    ],
+    "io.github.java-diff-utils:java-diff-utils:4.12": [
+        "4.12"
+    ],
+    "com.vdurmont:semver4j:3.1.0": [
+        "3.1.0"
+    ],
+    "org.rauschig:jarchivelib:1.2.0": [
+        "1.0.0",
+        "1.2.0",
+        "1.1.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.13.5": [
+        "2.13.4.1",
+        "2.13.5",
+        "2.13.4.2"
+    ],
+    "ognl:ognl:3.2.1": [
+        "3.2",
+        "3.2.1"
+    ],
+    "net.openhft:compiler:2.25ea2": [
+        "2.25ea1",
+        "2.24ea0",
+        "2.25ea0",
+        "2.25ea2",
+        "2.23ea0",
+        "2.25ea3"
+    ],
+    "org.jboss.threads:jboss-threads:3.5.0.Final": [
+        "3.5.0.Final",
+        "3.5.1.Final",
+        "3.5.0.Beta1"
+    ],
+    "org.springframework.data:spring-data-redis:3.1.5": [
+        "3.1.5"
+    ],
+    "io.lettuce:lettuce-core:6.2.6.RELEASE": [
+        "6.2.7.RELEASE",
+        "6.2.6.RELEASE"
+    ],
+    "org.springframework.data:spring-data-jpa:3.1.4": [
+        "3.1.4"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.2.0": [
+        "2.5.0",
+        "2.3.0",
+        "2.2.0",
+        "2.4.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-api:2.2.0": [
+        "2.2.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-common:2.2.0": [
+        "2.2.0"
+    ],
+    "org.fusesource.jansi:jansi:2.3.2": [
+        "2.3.3",
+        "2.3.4",
+        "2.3.2"
+    ],
+    "org.slf4j:slf4j-simple:2.0.7": [
+        "2.0.0-beta1",
+        "2.0.4",
+        "2.0.0-alpha6",
+        "2.0.7",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.0-alpha7",
+        "2.0.5",
+        "2.0.6",
+        "2.0.2",
+        "2.0.0-beta0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.10.1": [
+        "2.10.1"
+    ],
+    "io.github.sashirestela:cleverclient:1.4.2": [
+        "1.4.2"
+    ],
+    "io.github.sashirestela:slimvalidator:1.2.1": [
+        "1.2.1"
+    ],
+    "com.github.jsqlparser:jsqlparser:4.6": [
+        "4.6"
+    ],
+    "org.mybatis:mybatis-spring:3.0.3": [
+        "3.0.3"
+    ],
+    "ch.qos.logback:logback-core:1.4.8": [
+        "1.4.8"
+    ],
+    "org.liquibase:liquibase-core:4.20.0": [
+        "4.20.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.0.3": [
+        "2.0.4",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.2",
+        "2.0.0-RC2"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-api:2.0.3": [
+        "2.0.4",
+        "2.0.3",
+        "2.1.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-common:2.0.3": [
+        "2.0.3"
+    ],
+    "org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:3.0.2": [
+        "3.0.2",
+        "3.0.3"
+    ],
+    "org.mybatis:mybatis-spring:3.0.2": [
+        "3.0.2"
+    ],
+    "org.springframework.data:spring-data-redis:3.1.1": [
+        "3.1.4",
+        "3.1.1",
+        "3.1.3",
+        "3.1.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.15.1": [
+        "2.15.4",
+        "2.15.1",
+        "2.15.3",
+        "2.15.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.15.1": [
+        "2.15.4",
+        "2.15.1",
+        "2.15.3",
+        "2.15.2"
+    ],
+    "com.jcabi:jcabi-log:0.24.1": [
+        "0.24.1",
+        "0.22.0",
+        "0.21.0",
+        "0.23.0"
+    ],
+    "org.springframework.data:spring-data-jpa:3.1.1": [
+        "3.1.1"
+    ],
+    "org.codehaus.janino:janino:3.1.9": [
+        "3.1.9",
+        "3.1.8"
+    ],
+    "org.codehaus.janino:commons-compiler:3.1.9": [
+        "3.1.9",
+        "3.1.8"
+    ],
+    "io.r2dbc:r2dbc-spi:1.0.0.RELEASE": [
+        "1.0.0.RELEASE"
+    ],
+    "org.springframework.data:spring-data-jpa:3.2.5": [
+        "3.2.5"
+    ],
+    "com.googlecode.javaewah:JavaEWAH:1.2.3": [
+        "1.1.12",
+        "1.1.13",
+        "1.2.3"
+    ],
+    "org.jsoup:jsoup:1.17.2": [
+        "1.17.2"
+    ],
+    "org.xhtmlrenderer:flying-saucer-core:9.7.2": [
+        "9.7.1",
+        "9.7.0",
+        "9.7.2"
+    ],
+    "com.jcabi.incubator:xembly:0.31.1": [
+        "0.31.1"
+    ],
+    "com.jcabi:jcabi-xml:0.29.0": [
+        "0.29.0"
+    ],
+    "com.jcabi:jcabi-log:0.24.0": [
+        "0.24.0",
+        "0.21.0",
+        "0.24.1"
+    ],
+    "org.cactoos:cactoos:0.55.0": [
+        "0.55.0"
+    ],
+    "org.eolang:eo-parser:0.38.0": [
+        "0.38.0"
+    ],
+    "com.yegor256:xsline:0.21.1": [
+        "0.21.1"
+    ],
+    "com.jcabi:jcabi-manifests:2.1.0": [
+        "2.1.0"
+    ],
+    "com.yegor256:jhome:0.0.5": [
+        "0.0.5"
+    ],
+    "jakarta.validation:jakarta.validation-api:3.0.0": [
+        "3.0.0-M1",
+        "3.1.0-M2",
+        "3.0.2",
+        "3.1.0-M1",
+        "3.0.1",
+        "3.0.0"
+    ],
+    "org.jsoup:jsoup:1.16.1": [
+        "1.16.1"
+    ],
+    "org.codehaus.plexus:plexus-utils:3.5.1": [
+        "3.5.1"
+    ],
+    "org.springframework.cloud:spring-cloud-context:3.1.6": [
+        "3.1.6"
+    ],
+    "org.springframework.cloud:spring-cloud-commons:3.1.6": [
+        "3.1.6"
+    ],
+    "org.springframework.cloud:spring-cloud-openfeign-core:3.1.7": [
+        "3.1.7"
+    ],
+    "org.json:json:20240303": [
+        "20240303"
+    ],
+    "ch.qos.logback:logback-classic:1.3.6": [
+        "1.3.7",
+        "1.3.6"
+    ],
+    "ch.qos.logback:logback-core:1.3.6": [
+        "1.3.6"
+    ],
+    "com.ethlo.time:itu:1.7.0": [
+        "1.7.1",
+        "1.7.3",
+        "1.7.0",
+        "1.7.2"
+    ],
+    "com.github.docker-java:docker-java-api:3.3.6": [
+        "3.3.6"
+    ],
+    "ch.qos.logback:logback-core:1.4.6": [
+        "1.4.6"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.14.1": [
+        "2.14.3",
+        "2.14.2",
+        "2.14.1"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.14.1": [
+        "2.14.3",
+        "2.14.0",
+        "2.14.1"
+    ],
+    "ch.qos.logback:logback-core:1.4.13": [
+        "1.4.14",
+        "1.4.12",
+        "1.4.13"
+    ],
+    "org.json:json:20231013": [
+        "20231013"
+    ],
+    "org.apache.logging.log4j:log4j-slf4j-impl:2.20.0": [
+        "2.20.0"
+    ],
+    "us.codecraft:webmagic-core:0.7.5": [
+        "0.7.5"
+    ],
+    "org.jsoup:jsoup:1.13.1": [
+        "1.13.1"
+    ],
+    "us.codecraft:webmagic-extension:0.7.5": [
+        "0.7.5"
+    ],
+    "redis.clients:jedis:3.6.0": [
+        "3.6.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.13.3": [
+        "2.13.3",
+        "2.13.5",
+        "2.13.4",
+        "2.13.4.1",
+        "2.13.4.2"
+    ],
+    "org.springframework.hateoas:spring-hateoas:1.5.0": [
+        "1.5.2",
+        "1.5.4",
+        "1.5.3",
+        "1.5.6",
+        "1.5.1",
+        "1.5.5",
+        "1.5.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.13.2.1": [
+        "2.13.3",
+        "2.13.2.1",
+        "2.13.5",
+        "2.13.4",
+        "2.13.4.1",
+        "2.13.2.2",
+        "2.13.4.2"
+    ],
+    "org.jsoup:jsoup:1.14.3": [
+        "1.14.3"
+    ],
+    "ch.qos.logback:logback-core:1.4.5": [
+        "1.4.5",
+        "1.4.4",
+        "1.4.3",
+        "1.4.2"
+    ],
+    "org.slf4j:jul-to-slf4j:2.0.6": [
+        "2.0.0-beta1",
+        "2.0.4",
+        "2.0.0-alpha6",
+        "2.0.7",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.6",
+        "2.0.0-alpha7",
+        "2.0.5",
+        "2.0.2",
+        "2.0.0-beta0"
+    ],
+    "org.springframework.data:spring-data-jpa:3.0.3": [
+        "3.0.3"
+    ],
+    "org.iban4j:iban4j:3.2.4-RELEASE": [
+        "3.2.6-RELEASE",
+        "3.2.4-RELEASE"
+    ],
+    "org.springframework.data:spring-data-jpa:3.0.4": [
+        "3.0.4"
+    ],
+    "org.slf4j:slf4j-api:2.0.2": [
+        "2.0.0-beta1",
+        "2.0.4",
+        "2.0.7",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.5",
+        "2.0.6",
+        "2.0.2"
+    ],
+    "org.slf4j:slf4j-nop:2.0.6": [
+        "2.0.0-beta1",
+        "2.0.4",
+        "2.0.0-alpha6",
+        "2.0.7",
+        "2.0.0-alpha3",
+        "2.0.1",
+        "2.0.0-alpha5",
+        "2.0.3",
+        "2.0.0",
+        "2.0.2",
+        "2.0.6",
+        "2.0.0-alpha7",
+        "2.0.5",
+        "2.0.0-alpha4",
+        "2.0.0-beta0"
+    ],
+    "org.springframework.data:spring-data-jpa:3.0.0": [
+        "3.0.0"
+    ],
+    "io.lettuce:lettuce-core:6.3.2.RELEASE": [
+        "6.3.2.RELEASE"
+    ],
+    "org.springframework.data:spring-data-redis:3.2.5": [
+        "3.2.5",
+        "3.2.4"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.5.0": [
+        "2.5.0",
+        "2.3.0",
+        "2.2.0",
+        "2.4.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webmvc-api:2.5.0": [
+        "2.5.0"
+    ],
+    "org.springdoc:springdoc-openapi-starter-common:2.5.0": [
+        "2.5.0"
+    ],
+    "org.slf4j:slf4j-nop:2.0.7": [
+        "2.0.0-beta1",
+        "2.0.4",
+        "2.0.0-alpha6",
+        "2.0.7",
+        "2.0.0-alpha3",
+        "2.0.1",
+        "2.0.0-alpha5",
+        "2.0.3",
+        "2.0.0",
+        "2.0.2",
+        "2.0.0-alpha7",
+        "2.0.5",
+        "2.0.6",
+        "2.0.0-alpha4",
+        "2.0.0-beta0"
+    ],
+    "io.github.eo-cqrs:xfake:0.1.2": [
+        "0.1.2"
+    ],
+    "com.jcabi.incubator:xembly:0.28.1": [
+        "0.28.1"
+    ],
+    "com.jcabi:jcabi-immutable:1.5": [
+        "1.5"
+    ],
+    "io.github.eo-cqrs:eokson:0.3.2": [
+        "0.3.2"
+    ],
+    "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.15.2": [
+        "2.15.3",
+        "2.15.0",
+        "2.15.1",
+        "2.15.0-rc3",
+        "2.15.4",
+        "2.15.2"
+    ],
+    "ru.l3r8y:sa-tan:0.1.5": [
+        "0.1.5",
+        "0.1.4"
+    ],
+    "com.jcabi:jcabi-aspects:0.25.1": [
+        "0.25.1",
+        "0.26.0"
+    ],
+    "com.github.librepdf:openpdf:1.3.32": [
+        "1.3.32"
+    ],
+    "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.15.3": [
+        "2.15.3",
+        "2.15.0",
+        "2.15.1",
+        "2.15.0-rc3",
+        "2.15.4",
+        "2.15.2"
+    ],
+    "org.codehaus.plexus:plexus-utils:3.4.2": [
+        "3.4.2"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webflux-ui:2.0.4": [
+        "2.0.0-M5",
+        "2.0.0-M3",
+        "2.0.4",
+        "2.0.1",
+        "2.0.3",
+        "2.0.0",
+        "2.0.0-M6",
+        "2.0.0-M4",
+        "2.0.0-RC2",
+        "2.0.2",
+        "2.0.0-RC1",
+        "2.0.0-M7"
+    ],
+    "org.springdoc:springdoc-openapi-starter-webflux-api:2.0.4": [
+        "2.0.4",
+        "2.2.0",
+        "2.0.3",
+        "2.1.0"
+    ],
+    "jakarta.validation:jakarta.validation-api:3.1.0-M2": [
+        "3.0.0-M1",
+        "3.1.0-M2",
+        "3.0.2",
+        "3.1.0-M1",
+        "3.0.1",
+        "3.0.0"
+    ],
+    "org.codehaus.plexus:plexus-io:3.3.1": [
+        "3.3.1",
+        "3.3.0",
+        "3.2.0"
+    ],
+    "com.google.http-client:google-http-client:1.44.1": [
+        "1.44.1"
+    ],
+    "com.google.http-client:google-http-client-jackson2:1.44.1": [
+        "1.42.2",
+        "1.40.0",
+        "1.41.1",
+        "1.41.6",
+        "1.42.3",
+        "1.43.2",
+        "1.41.5",
+        "1.41.7",
+        "1.40.1",
+        "1.44.1",
+        "1.41.4",
+        "1.43.3",
+        "1.43.1",
+        "1.41.3",
+        "1.42.1",
+        "1.41.0",
+        "1.41.8",
+        "1.42.0",
+        "1.41.2",
+        "1.43.0"
+    ],
+    "com.google.http-client:google-http-client-gson:1.44.1": [
+        "1.43.2",
+        "1.43.3",
+        "1.44.1",
+        "1.43.0",
+        "1.43.1"
+    ],
+    "com.google.http-client:google-http-client-apache-v2:1.44.1": [
+        "1.42.2",
+        "1.40.0",
+        "1.41.1",
+        "1.41.6",
+        "1.42.3",
+        "1.43.2",
+        "1.41.5",
+        "1.41.7",
+        "1.40.1",
+        "1.44.1",
+        "1.41.4",
+        "1.43.3",
+        "1.43.1",
+        "1.41.3",
+        "1.42.1",
+        "1.41.0",
+        "1.41.8",
+        "1.42.0",
+        "1.41.2",
+        "1.43.0"
+    ],
+    "com.google.cloud:google-cloud-core-http:2.9.4": [
+        "2.9.3",
+        "2.9.0",
+        "2.8.24",
+        "2.8.28",
+        "2.8.27",
+        "2.9.2",
+        "2.8.26",
+        "2.9.4",
+        "2.9.1",
+        "2.8.23"
+    ],
+    "com.google.http-client:google-http-client-appengine:1.44.1": [
+        "1.42.2",
+        "1.40.0",
+        "1.41.1",
+        "1.41.6",
+        "1.42.3",
+        "1.43.2",
+        "1.41.5",
+        "1.41.7",
+        "1.40.1",
+        "1.44.1",
+        "1.41.4",
+        "1.43.3",
+        "1.43.1",
+        "1.41.3",
+        "1.42.1",
+        "1.41.0",
+        "1.41.8",
+        "1.42.0",
+        "1.41.2",
+        "1.43.0"
+    ],
+    "org.xmlunit:xmlunit-core:2.8.4": [
+        "2.8.4",
+        "2.8.3"
+    ],
+    "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.16.2": [
+        "2.16.1",
+        "2.16.2"
+    ],
+    "org.springdoc:springdoc-openapi-ui:1.8.0": [
+        "1.8.0"
+    ],
+    "org.springdoc:springdoc-openapi-webmvc-core:1.8.0": [
+        "1.8.0"
+    ],
+    "org.springdoc:springdoc-openapi-common:1.8.0": [
+        "1.8.0"
+    ],
+    "io.github.classgraph:classgraph:4.8.85": [
+        "4.8.84",
+        "4.8.85"
+    ],
+    "me.tongfei:progressbar:0.10.1": [
+        "0.10.1"
+    ],
+    "net.openhft:compiler:2.25ea3": [
+        "2.25ea3"
+    ],
+    "org.devlive.sdk:openai-java-sdk:2024.01.2": [
+        "2024.01.2"
+    ],
+    "ognl:ognl:3.3.4": [
+        "3.3.1",
+        "3.3.3",
+        "3.3.4",
+        "3.3.5"
+    ],
+    "ch.qos.logback:logback-classic:1.3.7": [
+        "1.3.7"
+    ],
+    "ch.qos.logback:logback-core:1.3.7": [
+        "1.3.8",
+        "1.3.7"
+    ],
+    "org.springframework.hateoas:spring-hateoas:1.5.6": [
+        "1.5.6"
+    ],
+    "org.iban4j:iban4j:3.2.6-RELEASE": [
+        "3.2.6-RELEASE"
+    ],
+    "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.15.4": [
+        "2.15.3",
+        "2.15.0",
+        "2.15.1",
+        "2.15.0-rc3",
+        "2.15.4",
+        "2.15.2"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.14.3": [
+        "2.14.3"
+    ],
+    "com.fasterxml.jackson.core:jackson-databind:2.10.3": [
+        "2.10.4",
+        "2.10.5.1",
+        "2.10.5",
+        "2.10.3"
+    ],
+    "com.fasterxml.jackson.module:jackson-module-jsonSchema:2.13.0": [
+        "2.10.0",
+        "2.11.4",
+        "2.14.2",
+        "2.9.2",
+        "2.9.10",
+        "2.9.9",
+        "2.9.4",
+        "2.9.7",
+        "2.11.1",
+        "2.10.0.pr1",
+        "2.10.0.pr3",
+        "2.12.0-rc1",
+        "2.9.3",
+        "2.14.0-rc1",
+        "2.10.1",
+        "2.13.1",
+        "2.11.3",
+        "2.11.0",
+        "2.12.3",
+        "2.12.7",
+        "2.13.0-rc2",
+        "2.14.0",
+        "2.10.4",
+        "2.10.2",
+        "2.9.8",
+        "2.12.2",
+        "2.10.5",
+        "2.12.4",
+        "2.10.0.pr2",
+        "2.12.6",
+        "2.13.0",
+        "2.13.2",
+        "2.14.0-rc2",
+        "2.14.1",
+        "2.10.3",
+        "2.11.2",
+        "2.9.5",
+        "2.12.1",
+        "2.13.3",
+        "2.12.0-rc2",
+        "2.13.5",
+        "2.13.0-rc1",
+        "2.13.4",
+        "2.12.0",
+        "2.12.5",
+        "2.14.3",
+        "2.11.0.rc1",
+        "2.14.0-rc3",
+        "2.9.6"
+    ],
+    "dev.langchain4j:langchain4j:0.29.1": [
+        "0.29.1"
+    ],
+    "dev.langchain4j:langchain4j-core:0.29.1": [
+        "0.29.1",
+        "0.29.0"
+    ],
+    "org.apache.opennlp:opennlp-tools:1.9.4": [
+        "1.9.4"
+    ],
+    "dev.langchain4j:langchain4j-open-ai:0.29.1": [
+        "0.29.1",
+        "0.30.0"
+    ],
+    "dev.langchain4j:langchain4j-anthropic:0.29.1": [
+        "0.29.1"
+    ],
+    "com.konghq:unirest-modules-gson:4.3.0": [
+        "4.3.1",
+        "4.3.2",
+        "4.4.0",
+        "4.3.0",
+        "4.4.4"
+    ],
+    "com.konghq:unirest-modules-jackson:4.3.0": [
+        "4.3.1",
+        "4.3.2",
+        "4.4.0",
+        "4.3.0",
+        "4.4.4"
+    ],
+    "org.springframework.retry:spring-retry:2.0.5": [
+        "2.0.5"
+    ],
+    "com.fasterxml.jackson.module:jackson-module-kotlin:2.15.3": [
+        "2.15.2",
+        "2.15.4",
+        "2.15.3"
+    ],
+    "com.google.http-client:google-http-client:1.43.1": [
+        "1.44.2",
+        "1.43.2",
+        "1.43.3",
+        "1.44.1",
+        "1.45.0",
+        "1.43.1"
+    ],
+    "com.google.http-client:google-http-client-gson:1.43.1": [
+        "1.44.2",
+        "1.43.2",
+        "1.43.3",
+        "1.44.1",
+        "1.45.0",
+        "1.43.0",
+        "1.43.1"
+    ],
+    "org.springframework.modulith:spring-modulith-core:1.0.0": [
+        "1.0.0"
+    ],
+    "org.springframework.modulith:spring-modulith-moments:1.0.0": [
+        "1.0.0"
+    ],
+    "org.springframework.modulith:spring-modulith-runtime:1.0.0": [
+        "1.0.0"
+    ],
+    "org.springframework.cloud:spring-cloud-context:4.1.0": [
+        "4.1.0"
+    ],
+    "org.springframework.cloud:spring-cloud-commons:4.1.0": [
+        "4.1.0"
+    ],
+    "org.springframework.cloud:spring-cloud-openfeign-core:4.1.0": [
+        "4.1.0"
+    ],
+    "com.google.code.gson:gson:2.9.1": [
+        "2.9.1"
+    ],
+    "org.fhir:ucum:1.0.8": [
+        "1.0.8"
+    ],
+    "org.vibur:vibur-object-pool:25.0": [
+        "25.0"
+    ],
+    "org.glassfish:jakarta.el:3.0.4": [
+        "3.0.4"
+    ],
+    "org.springframework.data:spring-data-envers:2.7.18": [
+        "2.7.13",
+        "2.7.15",
+        "2.7.17",
+        "2.7.18",
+        "2.7.16",
+        "2.7.12",
+        "2.7.14"
+    ],
+    "com.apicatalog:titanium-json-ld:1.3.2": [
+        "1.3.2"
+    ],
+    "net.minidev:json-smart:2.4.10": [
+        "2.5.0",
+        "2.5.1",
+        "2.4.10",
+        "2.4.11"
+    ],
+    "net.minidev:accessors-smart:2.4.9": [
+        "2.4.11",
+        "2.5.0",
+        "2.5.1",
+        "2.4.8",
+        "2.4.9"
+    ],
+    "net.jodah:typetools:0.6.1": [
+        "0.6.1",
+        "0.6.3",
+        "0.6.2"
+    ],
+    "org.xerial:sqlite-jdbc:3.39.3.0": [
+        "3.39.3.0"
+    ],
+    "net.openhft:chronicle-bytes:2.21.95": [
+        "2.21.94",
+        "2.21.92",
+        "2.21.93",
+        "2.21.95"
+    ],
+    "net.openhft:chronicle-core:2.21.95": [
+        "2.21.93",
+        "2.21.97",
+        "2.21.95",
+        "2.21.96",
+        "2.21.94"
+    ],
+    "net.openhft:chronicle-wire:2.21.94": [
+        "2.21.90",
+        "2.21.93",
+        "2.21.89",
+        "2.21.92",
+        "2.21ea86",
+        "2.21ea87",
+        "2.21.94",
+        "2.21.91"
+    ],
+    "net.openhft:chronicle-bytes:2.21.93": [
+        "2.21.94",
+        "2.21.92",
+        "2.21.93",
+        "2.21.95"
+    ],
+    "net.openhft:chronicle-threads:2.21.87": [
+        "2.21.87"
+    ],
+    "net.openhft:chronicle-core:2.21.93": [
+        "2.21.93",
+        "2.21.97",
+        "2.21.95",
+        "2.21.96",
+        "2.21.94"
+    ],
+    "com.fasterxml.jackson.datatype:jackson-datatype-joda:2.13.5": [
+        "2.17.2",
+        "2.16.0-rc1",
+        "2.14.2",
+        "2.16.2",
+        "2.17.1",
+        "2.15.0-rc1",
+        "2.15.2",
+        "2.15.3",
+        "2.14.0-rc1",
+        "2.13.1",
+        "2.15.0-rc3",
+        "2.12.7",
+        "2.12.3",
+        "2.13.0-rc2",
+        "2.14.0",
+        "2.16.1",
+        "2.16.0",
+        "2.12.2",
+        "2.12.4",
+        "2.12.6",
+        "2.15.0-rc2",
+        "2.15.4",
+        "2.13.0",
+        "2.13.2",
+        "2.14.0-rc2",
+        "2.14.1",
+        "2.17.0",
+        "2.12.1",
+        "2.13.3",
+        "2.13.5",
+        "2.13.0-rc1",
+        "2.13.4",
+        "2.15.0",
+        "2.12.5",
+        "2.15.1",
+        "2.14.3",
+        "2.14.0-rc3",
+        "2.18.0-rc1",
+        "2.17.0-rc1"
+    ],
+    "org.springframework.data:spring-data-jpa:3.0.5": [
+        "3.0.6",
+        "3.0.5"
+    ],
+    "org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:3.0.3": [
+        "3.0.3"
+    ],
+    "com.rometools:rome-utils:2.1.0": [
+        "2.1.0"
+    ],
+    "org.netpreserve:jwarc:0.23.1": [
+        "0.24.0",
+        "0.26.0",
+        "0.24.1",
+        "0.28.0",
+        "0.27.1",
+        "0.28.3",
+        "0.28.4",
+        "0.28.5",
+        "0.25.0",
+        "0.28.6",
+        "0.28.2",
+        "0.27.0",
+        "0.23.1",
+        "0.28.1",
+        "0.30.0",
+        "0.29.0"
+    ],
+    "org.apache.logging.log4j:log4j-slf4j2-impl:2.20.0": [
+        "2.20.0"
+    ],
+    "org.codehaus.plexus:plexus-utils:4.0.1": [
+        "4.0.2",
+        "4.0.1"
+    ],
+    "org.codehaus.mojo.versions:versions-common:2.16.0": [
+        "2.16.0"
+    ],
+    "io.github.classgraph:classgraph:4.8.154": [
+        "4.8.155",
+        "4.8.154"
+    ],
+    "redis.clients:jedis:5.1.0": [
+        "5.1.0"
+    ],
+    "org.soot-oss:soot:4.5.0": [
+        "4.5.0"
+    ],
+    "com.github.docker-java:docker-java-api:3.3.5": [
+        "3.3.5"
+    ],
+    "com.google.http-client:google-http-client:1.45.0": [
+        "1.44.1",
+        "1.45.0",
+        "1.44.2"
+    ],
+    "com.google.http-client:google-http-client-gson:1.45.0": [
+        "1.44.2",
+        "1.43.2",
+        "1.43.3",
+        "1.44.1",
+        "1.45.0",
+        "1.43.0",
+        "1.43.1"
+    ],
+    "net.minidev:accessors-smart:2.5.1": [
+        "2.5.1"
+    ],
+    "net.jodah:typetools:0.6.3": [
+        "0.6.3"
+    ],
+    "org.netpreserve:jwarc:0.30.0": [
+        "0.30.0"
+    ],
+    "com.fasterxml.jackson.core:jackson-core:2.14.3": [
+        "2.14.3"
+    ],
+    "io.github.classgraph:classgraph:4.8.155": [
+        "4.8.155"
+    ],
+    "io.github.sashirestela:cleverclient:1.4.1": [
+        "1.4.1",
+        "1.4.0"
+    ],
+    "org.eolang:eo-parser:0.37.0": [
+        "0.37.0"
+    ]
+}
