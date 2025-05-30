@@ -10,8 +10,10 @@ Both can be combined to enable Maven to resolve version conflicts by ensuring a 
 * `client`: contains the code related to the client-side `MaRCo Replacer` tool.
 * `core`: contains shared utility code.
 * `server`: contains the code related to the server-side `MaRCo Generator` tool.
+* `server/resources/compatibilities.json`: contain reusable client-agnostic compatibility mappings for 323 unique dependencies, which include 1252 compatible version pairs.
 
 Each module contains its own `README.md` containing more detailed documentation and run instructions.
+
 
 ### Setup
 To install the full MaRCo toolkit, run:
