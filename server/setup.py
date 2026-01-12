@@ -8,7 +8,7 @@ setup(
         'PyGithub==2.1.1',
         'requests==2.31.0',
         'Flask==3.0.2',
-        'GitPython==3.1.40'
+        'GitPython==3.1.40',
         'core'
 
     ],
